@@ -2,7 +2,7 @@
   "author": "Jed Schmidt <tr@nslator.jp> (http://jed.is)",
   "name": "emit",
   "description": "A reactive toolkit for JavaScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "functional",
     "reactive",
@@ -16,5 +16,7 @@
   },
   "engines": {
     "node": "~0.6.6"
-  }
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
