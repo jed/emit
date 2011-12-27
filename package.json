@@ -3,13 +3,18 @@
   "name": "emit",
   "description": "A reactive toolkit for JavaScript",
   "version": "0.0.0",
+  "keywords": [
+    "functional",
+    "reactive",
+    "emitter",
+    "emit"
+  ],
   "homepage": "https://emitjs.org",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/jed/emit.git"
   },
   "engines": {
-    "node": "~0.6.2"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+    "node": "~0.6.6"
+  }
 }
